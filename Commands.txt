@@ -1,0 +1,13 @@
+git config --global user.name "Dheeresh"
+
+git config --global user.email "k.dheeresh.47@gmail.com"
+
+git init
+
+git add .
+
+git commit -m "file created"
+
+git branch
+
+git push origin main -- if the branch is main
